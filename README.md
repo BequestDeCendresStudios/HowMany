@@ -16,7 +16,7 @@ Note that while it presents as Rubygames compared to Github, and Rubygems to You
 
 This was created to work around the lack of features that were available to normal users about the exact nature of their traffic, as I had had breaches from parts of Asia and Eastern Europe, frequently in gaming communities, this enables me to avoid using Githubs metrics for finding out who might be malicious users.
 
-~~~
+~~~ruby
 require_relative "HowMany/HowMany.rb"
 
 evaluate_malicious_users(0.633333333, 0.366666667, 0.162461546, 128)
